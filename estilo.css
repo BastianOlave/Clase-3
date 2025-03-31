@@ -44,7 +44,7 @@ header h1{
 
 header h2{
     font-size: 1.2em;
-    opacity: 0.7;
+    opacity: 0.8;
 }
 
 .container{
@@ -87,4 +87,52 @@ img{
     vertical-align: middle;
     margin-left: 1%;
     text-shadow: 0px 0px 20px rgba(0,0,0,0.5);
+}
+
+h3{
+    font-size: 1.4em;
+    margin-top: 20px;
+    color: rgba(0,0,0,0.5);
+}
+
+section{
+    background-color: white;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+
+section hr{
+    border: 0;
+    height: 2px;
+    background: #248586;
+    margin: 10px 0;
+}
+
+ul{
+    list-style: none;
+}
+
+ul li{
+    padding: 5px 0;
+}
+
+i{
+    color: #30adad;
+    margin-right: 8px;
+}
+
+address p{
+    margin: 5px 0;
+}
+
+address a{
+    color: #216cae;
+    text-decoration: none;
+}
+
+article{
+    margin-bottom: 15px;
 }
